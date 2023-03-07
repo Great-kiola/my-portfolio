@@ -30,5 +30,5 @@ the credentials that is required to contact me.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Deployed App
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
