@@ -20,7 +20,7 @@ function Contact(props) {
         rhoncus. Etiam vel condimentum magna, quis tempor nulla.
       </p>
       <Link to="learn" role="button" className="btn btn-link">
-        Learn More
+        git Hub
       </Link>
       <Link to="contact" role="button" className="btn btn-link">
         Learn Less
